@@ -1,9 +1,13 @@
 # MLFinanceHandbook
 
+### [Options Trading Strategies with explanations](/OptionsTradingStrategies.pdf)
+
+This includes American call and American Put options pricing strategies, with explanations. Here is the [Python code](/OptionsTradingStrategiesPython.py)
+
 ### [ML in finance - Ridge Regression, Trees, K-Means](/MLFinanceHandbook(RidgeRegression,DecisionTree,KMeans).pdf) 
 
 
-This marketing handbook provides basic and technical guides for 3 different types of machine learning models that includes classification trees, ridge regression, and K-mean clustering models. Here is the [python notebook](/ML_FinanceHandbook(RidgeRegression,DecisionTree,KMeans).ipynb)
+This handbook provides basic and technical guides for 3 different types of machine learning models that includes classification trees, ridge regression, and K-mean clustering models. Here is the [python notebook](/ML_FinanceHandbook(RidgeRegression,DecisionTree,KMeans).ipynb)
 
 ### [ML in finance - LDA, SVM, NN](/MLFinanceHandbook(LDA,SVM,NN).pdf) 
 
