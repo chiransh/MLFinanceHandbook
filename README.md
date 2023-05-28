@@ -1,5 +1,6 @@
 # MLFinanceHandbook
 
+###[ML in finance - Ridge Regression, Trees, K-Means](/MLFinanceHandbook(RidgeRegression,DecisionTree,KMeans).pdf)
 This marketing handbook provides basic and technical guides for 3 different types of machine learning models that includes classification trees, ridge regression, and K-mean clustering models.
 
 
